@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="XML small sample" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.textconverter.Application" />
+    <module name="text-converter" />
+    <option name="PROGRAM_PARAMETERS" value="--format xml" />
+    <option name="VM_PARAMETERS" value="-Xmx32m" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/samples/small.in" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

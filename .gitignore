@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+.local/
+*.log
+
+/result.xml
+/result.csv
